@@ -7,5 +7,5 @@
 ![page7](./images/paper/paper-07.png)
 ![page8](./images/paper/paper-08.png)
 ![page9](./images/paper/paper-09.png)
-![page10](./images/paper/paper-010.png)
-![page11](./images/paper/paper-011.png)
+![page10](./images/paper/paper-10.png)
+![page11](./images/paper/paper-11.png)
